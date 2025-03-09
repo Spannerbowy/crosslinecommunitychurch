@@ -1,12 +1,13 @@
 body { font-family: 'Times New Roman', Times, serif, sans-serif; 
-  text-align:start; }
+  text-align:start; 
+width:auto}
   header { background-image: linear-gradient(red, rgb(12, 8, 109)); 
           color: white; padding: 10px; }
   nav a { color: rgb(75, 227, 15); 
            margin:0 15px;
            text-decoration: none; 
           }
-  .container { width: 100%; 
+  .container { width: 1000px; 
       margin-bottom: 0px; 
       padding: 20px;
    }
@@ -50,12 +51,12 @@ strong{
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }    
 .imagelinks .images{
-  width:35%;
+  width:30%;
   height: 200px;
   margin:5px;
 }
 .container{
-  width:1000px;
+  width:100%;
   text-align: center;
 }
 .containa .box{
