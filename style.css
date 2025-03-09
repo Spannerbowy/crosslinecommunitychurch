@@ -1,0 +1,72 @@
+body { font-family: 'Times New Roman', Times, serif, sans-serif; 
+  text-align:start; }
+  header { background-image: linear-gradient(red, rgb(12, 8, 109)); 
+          color: white; padding: 10px; }
+  nav a { color: rgb(75, 227, 15); 
+           margin:0 15px;
+           text-decoration: none; 
+          }
+  .container { width: 100%; 
+      margin-bottom: 0px; 
+      padding: 20px;
+   }
+  footer { background-color:orangered; 
+          color: white;
+           padding: 10px; 
+           position:fixed;
+           bottom: 0; width: 100%;
+           text-align: center;
+          }
+  .imagelinks img { width: 35%;
+                   margin: 5px;
+                  height: auto; }
+            header  p{
+                      color:white;
+                      margin-right: 0px;
+                      text-align: right;
+                      
+                  }
+  header h1{text-align: center;
+                 }
+       header  .crosslinelogo{
+          width:10%;
+          height:auto;
+          position:absolute;
+          margin-left:0%;
+         
+       }
+       nav{
+          margin-left: 40%;
+       }
+.container .mainimage{
+  width:100%;
+  height:auto;
+}       
+strong{
+  color:orange;
+  text-align: center;
+  margin-left: 20%;
+  font-size: 50px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}    
+.imagelinks .images{
+  width:35%;
+  height: 200px;
+  margin:5px;
+}
+.container{
+  width:1000px;
+  text-align: center;
+}
+.containa .box{
+  width:70%;
+   margin-left:20%;
+   margin-right: 20%;
+}
+.topic{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: xx-large;
+font: bold;
+}
+
+ 
