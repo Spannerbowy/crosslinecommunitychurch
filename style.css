@@ -7,7 +7,7 @@ width:auto}
            margin:0 15px;
            text-decoration: none; 
           }
-  .container { width: 1000px; 
+  .container { width: 100%; 
       margin-bottom: 0px; 
       padding: 20px;
    }
@@ -47,7 +47,7 @@ strong{
   color:orange;
   text-align: center;
   margin-left: 20%;
-  font-size: 50px;
+  font-size: 10px;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }    
 .imagelinks .images{
